@@ -1,0 +1,14 @@
+com\baizhi\service\RecordService.class
+com\baizhi\controller\RecordController.class
+com\baizhi\service\impl\AuctionServiceImpl.class
+com\baizhi\dao\UsersDao.class
+com\baizhi\controller\UserController.class
+com\baizhi\dao\RecordDao.class
+com\baizhi\controller\AuctionController.class
+com\baizhi\service\UsersService.class
+com\baizhi\service\impl\RecordServiceImpl.class
+com\baizhi\entity\Users.class
+com\baizhi\App.class
+com\baizhi\service\impl\UsersServiceImpl.class
+com\baizhi\entity\Record.class
+com\baizhi\entity\Auction.class
